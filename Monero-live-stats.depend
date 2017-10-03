@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1506852115 source:c:\users\swapnil\documents\codeblocks\monero-live-stats\main.cpp
+	<iostream>
+	<Windows.h>
+	<wininet.h>
+	<cstring>
+	<conio.h>
+	<sstream>
+	<iomanip>
+	<fstream>
+	<math.h>
+	<locale>
+
