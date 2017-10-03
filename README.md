@@ -1,0 +1,1 @@
+# Monero mining monitor
